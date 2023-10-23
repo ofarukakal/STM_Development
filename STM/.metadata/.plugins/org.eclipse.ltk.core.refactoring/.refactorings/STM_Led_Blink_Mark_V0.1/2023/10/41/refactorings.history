@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM_Led_Blink_Mark_V0.1/Core/Inc/controller&apos; to &apos;controller.h&apos;" description="Rename resource &apos;controller&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/controller" name="controller.h" stamp="1696765300938" updateReferences="true"/>
+</session>
