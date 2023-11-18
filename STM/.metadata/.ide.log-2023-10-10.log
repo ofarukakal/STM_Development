@@ -1,4 +1,0 @@
-2023-10-10 00:56:55,927 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
-2023-10-10 00:56:57,947 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
-2023-10-10 00:56:59,950 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
-2023-10-10 00:57:04,028 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
